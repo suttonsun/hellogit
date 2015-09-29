@@ -1,4 +1,1 @@
-# hellogit
-
-
-dfsdfljsdf sdfj 
+printf "hello"
